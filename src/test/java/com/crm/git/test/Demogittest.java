@@ -8,7 +8,7 @@ public class Demogittest {
 	@Test
 	public void demo()
 	{
-		System.out.println("hi user1, first commit ");
+		System.out.println("hi user2, second commit ");
 		
 		
 	}
